@@ -1,0 +1,6 @@
+# python-codes
+My first project on Github
+ print("welcome message")
+  def greet():
+       print("welcome to python world")
+   greet()
