@@ -1,0 +1,9 @@
+a="welcome to python"
+b=["a","e","i","o","u"]
+result=[n for n in a for x in b if n==x]
+print(result)
+nums=[1,2,3,-4,-5,-6]
+result=[n for n in nums if n>0]
+print(result)
+result=[n**3 for n in range(1,11)]
+print(result)
