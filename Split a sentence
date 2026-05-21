@@ -1,0 +1,3 @@
+a=input("enter the string:")
+words=a.split()
+print("spilted sentence",words)
